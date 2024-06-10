@@ -1,5 +1,5 @@
-#Lottery PowerBall number Generator
-#Made by SuperMcFamous
+# Lottery PowerBall number Generator
+# Made by SuperMcFamous
 
 import numpy as np
 import pandas as pd
