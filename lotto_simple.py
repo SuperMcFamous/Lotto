@@ -1,4 +1,4 @@
-#Simple PowerBall lottery number generator
+# Simple PowerBall lottery number generator
 # Made by SuperMcFamous 
  
 from collections import Counter
